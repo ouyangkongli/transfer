@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "accountNo": "800001",
+    "availableAmount": "100.00",
+    "timeCreated": 1663795507893
+  },
+  {
+    "id": 2,
+    "accountNo": "800002",
+    "availableAmount": "200.00",
+    "timeCreated": 1663795507993
+  },
+  {
+    "id": 3,
+    "accountNo": "800003",
+    "availableAmount": "300.00",
+    "timeCreated": 1663795517893
+  }
+]
